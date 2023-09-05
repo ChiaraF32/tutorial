@@ -1,3 +1,6 @@
 print ("hello")
+print ("my name is Liam")
+print ("my name is Chiara")
+print ("my name is Vivian")
 print ("farewell")
 print ("goodbye")
